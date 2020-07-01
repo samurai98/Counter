@@ -1,0 +1,29 @@
+.error {
+    font-size: 30px;
+    font-weight: bold;
+
+    color: red;
+}
+
+.message {
+    font-size: 20px;
+    font-weight: bold;
+
+    color: #88daf7;
+}
+
+.display p {
+    font-size: 45px;
+
+    margin: 0 auto;
+
+    text-align: center;
+
+    color: #88daf7;
+}
+
+.maxValue p {
+    font-weight: bold;
+
+    color: red;
+}

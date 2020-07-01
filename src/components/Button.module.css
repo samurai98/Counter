@@ -1,0 +1,30 @@
+.button {
+    font: 15pt monospace;
+
+    display: block;
+
+    width: 100px;
+    height: 40px;
+    margin: 0 auto 5px;
+
+    color: #2a2c36;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    background-color: #60d4f7;
+}
+
+.button:hover {
+    color: #fff;
+}
+
+.button:active {
+    box-shadow: 0 17px 17px rgba(108, 255, 165, .77) inset, 0 -3px 0 rgba(255, 255, 255, .1) inset;
+}
+
+.disabled {
+    pointer-events: none;
+
+    color: rgba(42, 44, 54, .53);
+    background-color: rgba(96, 212, 247, .44);
+}

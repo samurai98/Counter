@@ -1,0 +1,17 @@
+.App {
+    display: flex;
+}
+
+.border {
+    width: 300px;
+    margin: 20% auto;
+    border: 2px solid #88daf7;
+    border-radius: 10px;
+}
+
+.smallBorder {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid #88daf7;
+    border-radius: 10px;
+}
